@@ -71,6 +71,20 @@ The data from our dashboard reveals a clear correlation between high customer ra
 
 ![Forecasting](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/1bf5f64b-a1ec-4abe-8761-2b3744bd3a2e)
 
+# Recommendation & Strategy
+
+Recommendations for Olist
+
+1. **Implement Seasonal/Quarterly Promotional Events:** Olist should implement seasonal or quarterly promotional events, such as "Black Friday" sales, to drive customer engagement, encourage high product purchases, and increase revenue.
+
+2. **Maintain High Product Quality and Competitive Pricing:** It's essential for Olist to maintain high product quality and competitive pricing to minimize cancellations, maximize customer satisfaction, and boost revenue.
+
+3. **Implement Loyalty Programs:** Olist can implement loyalty programs, such as special discounts for repeat customers and free shipping to targeted locations like Sao Paulo and Acre, to drive an increase in repeat purchases, enhance customer retention, and acquire new customers.
+
+4. **Invest in New Products and Services:** With high revenue and profit margins, Olist should consider investing in new products and services and expanding into new markets. This strategy will drive new customer acquisition and ensure Olist stays ahead in the e-commerce business in Brazil.
+
+
+
 
 
 ## How to Run
