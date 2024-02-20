@@ -21,13 +21,32 @@ The project's main objectives include maximizing revenue, building a forecasting
 - Interactive data visualization using Power BI for in-depth analysis and insights.
 # Data Visualization
 ## Sales Insight Dashboard
-- This dashboard provides a clear snapshot of Olist's thriving e-commerce platform, from revenue and logistics to top-selling categories. These insights allow us to optimize our strategies and continue delivering exceptional value to our customers and partners
+
+- This dashboard provides a clear snapshot of Olist's thriving e-commerce platform, from revenue and logistics to top-selling categories. These insights allow us to optimize our strategies and continue delivering exceptional value to our customers and partners.
+- 
+
+  
 ![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
 ## Logistics Dasboard
-- This logistics overview highlights our platform's extensive reach, efficient order processing, customer-centric payment options, and exceptional delivery performance. These insights enable us to continuously refine our logistics strategies and maintain a high level of service quality.
+
+This logistics overview highlights our platform's extensive reach, efficient order processing, customer-centric payment options, and exceptional delivery performance. These insights enable us to continuously refine our logistics strategies and maintain a high level of service quality.
+- **Total Revenue**
+  "Our total revenue stands at a remarkable $16 million. This is a testament to the robust sales activity on our platform."
+
+- **Total Freight**
+  "Logistics is a cornerstone of our operations, with total freight costs amounting to $2.22 million, ensuring timely and reliable delivery of products."
+
+- **Total Orders**
+  "The platform has successfully processed 111.02 thousand orders, reflecting the high demand and trust customers place in our services."
+
+- **Total Distinct Orders**
+  "Delving deeper, we see that the total number of distinct orders is 97.26 thousand, which indicates a healthy repeat purchase rate among our customer base."
+
 ![Logistics Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/da5f077a-37a2-46a8-ba3e-2b53e24c9f13)
 ## Customer Satisfaction
+
 - The data from our dashboard reveals a clear correlation between high customer ratings and increased total revenue and order count. The success of products that have achieved a 5-star rating is a testament to our platform's ability to deliver quality products and services, leading to customer delight and repeat business.
+- 
 ![Customer Satisfaction ](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/7b727fcd-dbe3-4b6e-9648-5636c4b93001)
 
 
