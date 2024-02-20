@@ -21,7 +21,7 @@ The project's main objectives include maximizing revenue, building a forecasting
 - Interactive data visualization using Power BI for in-depth analysis and insights.
 # Data Visualization
 ## Sales Insight Dashboard
-![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/raw/main/Power%20BI/Sales Dashboard.jpg)
+![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
 
 
 ## How to Run
