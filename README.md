@@ -91,11 +91,14 @@ Recommendations for Olist
 
 # Challenges & Limitations
 
-The dataset used in this analysis lacks information regarding the date when a new customer registered, which limits the depth of customer analysis. To conduct a more comprehensive analysis and derive more meaningful insights, it is necessary to have a longer period dataset that includes additional information such as customer and seller registration dates, as well as customer and seller names.
+- **Missing Registration Dates:** The dataset does not include information about the registration date of new customers, limiting the depth of customer analysis.
 
-To enhance the sensitivity of the analysis, obtaining datasets from other similar companies within the same industry for comparison purposes would be beneficial. This comparative analysis can provide valuable insights into industry trends, customer behavior, and business performance.
+- **Need for Comprehensive Dataset:** To conduct a more sensitive analysis, a longer period dataset is required. This dataset should include additional information such as customer and seller registration dates, as well as customer and seller names.
+
+- **Comparative Analysis:** Obtaining datasets from other similar companies within the same industry would be beneficial for comparison purposes. This comparative analysis can provide insights into industry trends, customer behavior, and business performance.
 
 Addressing these limitations and incorporating additional datasets will contribute to a more robust and insightful analysis, enabling better-informed decision-making processes.
+
  
 
 
