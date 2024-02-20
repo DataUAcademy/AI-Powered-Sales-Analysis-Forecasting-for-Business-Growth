@@ -7,7 +7,7 @@ The project's main objectives include maximizing revenue, building a forecasting
 ## Technologies Used
 
 - Python
-- LSTM
+- TensorFlow
 - Power BI
 - Pandas
 - NumPy
@@ -69,6 +69,8 @@ The data from our dashboard reveals a clear correlation between high customer ra
 ![Customer Satisfaction ](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/7b727fcd-dbe3-4b6e-9648-5636c4b93001)
 
 # Forecasting
+Since the LSTM model demonstrated superior performance, we will utilize it to forecast revenue for the next 3 months.
+
 
 ![Forecasting](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/1bf5f64b-a1ec-4abe-8761-2b3744bd3a2e)
 
