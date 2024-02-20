@@ -69,6 +69,8 @@ The data from our dashboard reveals a clear correlation between high customer ra
 
 # Forecasting
 
+![Forecasting](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/1bf5f64b-a1ec-4abe-8761-2b3744bd3a2e)
+
 
 
 ## How to Run
