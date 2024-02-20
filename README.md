@@ -22,14 +22,7 @@ The project's main objectives include maximizing revenue, building a forecasting
 # Data Visualization
 ## Sales Insight Dashboard
 
-- This dashboard provides a clear snapshot of Olist's thriving e-commerce platform, from revenue and logistics to top-selling categories. These insights allow us to optimize our strategies and continue delivering exceptional value to our customers and partners.
-- 
-
-  
-![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
-## Logistics Dasboard
-
-This logistics overview highlights our platform's extensive reach, efficient order processing, customer-centric payment options, and exceptional delivery performance. These insights enable us to continuously refine our logistics strategies and maintain a high level of service quality.
+This dashboard provides a clear snapshot of Olist's thriving e-commerce platform, from revenue and logistics to top-selling categories. These insights allow us to optimize our strategies and continue delivering exceptional value to our customers and partners.
 - **Total Revenue**
   "Our total revenue stands at a remarkable $16 million. This is a testament to the robust sales activity on our platform."
 
@@ -40,13 +33,34 @@ This logistics overview highlights our platform's extensive reach, efficient ord
   "The platform has successfully processed 111.02 thousand orders, reflecting the high demand and trust customers place in our services."
 
 - **Total Distinct Orders**
-  "Delving deeper, we see that the total number of distinct orders is 97.26 thousand, which indicates a healthy repeat purchase rate among our customer base."
+  "Delving deeper, we see that the total number of distinct orders is 97.26 thousand, which indicates a healthy repeat purchase rate among our customer base." 
+
+  
+![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
+## Logistics Dasboard
+
+This logistics overview highlights our platform's extensive reach, efficient order processing, customer-centric payment options, and exceptional delivery performance. These insights enable us to continuously refine our logistics strategies and maintain a high level of service quality.
+- **Total Orders by Region**
+  "Our platform's reach is extensive, with orders penetrating 4,119 distinct cities across 27 states, demonstrating our widespread presence in the Brazilian market. The map visualization indicates a dense concentration of orders in the southeastern regions, with São Paulo being a vibrant hub for e-commerce activity."
+- **Payment Type Popularity**
+  "Our customers have a clear preference when it comes to payment methods. An overwhelming 78.34% choose to use credit cards, followed by 17.92% using 'boleto', a popular Brazilian payment method. Vouchers, debit cards, and a few undefined methods make up the remainder. This breakdown is pivotal for tailoring our payment options to customer preferences and ensuring a seamless checkout experience."
+- **Total Orders by On-time Delivery**
+  "Punctuality is a key performance indicator for our logistics team. We are proud to report that 92.11% of orders were delivered on time, with only 7.89% arriving late. This high rate of on-time delivery underlines our commitment to reliability and customer satisfaction."
+
 
 ![Logistics Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/da5f077a-37a2-46a8-ba3e-2b53e24c9f13)
+
 ## Customer Satisfaction
 
-- The data from our dashboard reveals a clear correlation between high customer ratings and increased total revenue and order count. The success of products that have achieved a 5-star rating is a testament to our platform's ability to deliver quality products and services, leading to customer delight and repeat business.
-- 
+The data from our dashboard reveals a clear correlation between high customer ratings and increased total revenue and order count. The success of products that have achieved a 5-star rating is a testament to our platform's ability to deliver quality products and services, leading to customer delight and repeat business.
+- **Total Revenue and Average Review Score**
+  "To set the stage, our platform has achieved an impressive $16 million in total revenue, with a noteworthy average review score of 4.09 out of 5. This underscores our commitment to customer satisfaction and high-quality service."
+
+- **Customer Rating VS Order Count & Total Revenue**
+  "Delving into the specifics, the composite bar and line chart illustrates a compelling story about customer ratings and their impact on sales. We see a striking increase in both revenue and order count as the review scores ascend. For products rated with 5 stars, the total revenue peaks at $8.8 million with approximately 62 thousand orders. This data point not only signifies high customer satisfaction but also shows that top-rated products are a major revenue driver for our marketplace."
+
+
+
 ![Customer Satisfaction ](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/7b727fcd-dbe3-4b6e-9648-5636c4b93001)
 
 
