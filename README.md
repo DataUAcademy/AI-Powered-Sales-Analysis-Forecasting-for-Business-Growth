@@ -119,9 +119,4 @@ For further inquiries or to discuss potential collaborations, please feel free t
 
 
 
-## How to Run
 
-### Clone Repository
-
-```bash
-git clone https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth
