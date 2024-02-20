@@ -99,6 +99,16 @@ Recommendations for Olist
 
 Addressing these limitations and incorporating additional datasets will contribute to a more robust and insightful analysis, enabling better-informed decision-making processes.
 
+# Future Approach
+
+- **Incorporation of External Factors:** Consider adding external factors such as inflation rate, customer satisfaction, economic indicators, etc., to enhance the model's accuracy and predictive capabilities.
+
+- **Product Category Sales Forecasting:** Extend the model to forecast sales for each product category individually. This granular approach can provide insights into category-specific trends and behaviors.
+
+- **Exploration of Advanced Forecasting Techniques:** Explore advanced forecasting techniques such as FBProphet or ensemble models to leverage the strengths of each approach and potentially achieve higher accuracy in predictions.
+
+
+
  
 
 
