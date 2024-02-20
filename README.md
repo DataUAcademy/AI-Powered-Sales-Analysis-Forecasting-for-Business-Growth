@@ -22,7 +22,7 @@ The project's main objectives include maximizing revenue, building a forecasting
 # Data Visualization
 ## Sales Insight Dashboard
 
-This dashboard provides a clear snapshot of Olist's thriving e-commerce platform, from revenue and logistics to top-selling categories. These insights allow us to optimize our strategies and continue delivering exceptional value to our customers and partners. Here is the link to the dasboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
+This dashboard provides a clear snapshot of Olist's thriving e-commerce platform, from revenue and logistics to top-selling categories. These insights allow us to optimize our strategies and continue delivering exceptional value to our customers and partners. For full experience and interaction with the dashboard, Here is the link to the dasboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
 
 - **Total Revenue**
   "Our total revenue stands at a remarkable $16 million. This is a testament to the robust sales activity on our platform."
@@ -71,6 +71,9 @@ The data from our dashboard reveals a clear correlation between high customer ra
 # Forecasting
 
 ![Forecasting](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/1bf5f64b-a1ec-4abe-8761-2b3744bd3a2e)
+
+After forecasting the revenue for the next 3 months, we observed a downward trend in the line, indicating a negative sign. In response to this forecast, our next step will involve formulating strategic plans and recommendations to address this trend and optimize revenue growth.
+
 
 # Recommendation & Strategy
 
