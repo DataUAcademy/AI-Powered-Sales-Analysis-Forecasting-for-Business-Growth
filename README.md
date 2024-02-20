@@ -110,6 +110,9 @@ Addressing these limitations and incorporating additional datasets will contribu
 
 
  
+## Contact & Connect
+
+For further inquiries or to discuss potential collaborations, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rithyvira/).
 
 
 
