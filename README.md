@@ -89,6 +89,16 @@ Recommendations for Olist
 
 4. **Invest in New Products and Services:** With high revenue and profit margins, Olist should consider investing in new products and services and expanding into new markets. This strategy will drive new customer acquisition and ensure Olist stays ahead in the e-commerce business in Brazil.
 
+# Challenges & Limitations
+
+The dataset used in this analysis lacks information regarding the date when a new customer registered, which limits the depth of customer analysis. To conduct a more comprehensive analysis and derive more meaningful insights, it is necessary to have a longer period dataset that includes additional information such as customer and seller registration dates, as well as customer and seller names.
+
+To enhance the sensitivity of the analysis, obtaining datasets from other similar companies within the same industry for comparison purposes would be beneficial. This comparative analysis can provide valuable insights into industry trends, customer behavior, and business performance.
+
+Addressing these limitations and incorporating additional datasets will contribute to a more robust and insightful analysis, enabling better-informed decision-making processes.
+ 
+
+
 
 
 
