@@ -74,7 +74,6 @@ Since the LSTM model demonstrated superior performance, we will utilize it to fo
 
 ![LSTM Forecasting](https://github.com/DataUAcademy/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/2851ec53-4965-4eab-87f9-d68d4e92fc90)
 
-![Forecasting](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/1bf5f64b-a1ec-4abe-8761-2b3744bd3a2e)
 
 After forecasting the revenue for the next 3 months, we observed a downward trend in the line, indicating a negative sign. In response to this forecast, our next step will involve formulating strategic plans and recommendations to address this trend and optimize revenue growth.
 
