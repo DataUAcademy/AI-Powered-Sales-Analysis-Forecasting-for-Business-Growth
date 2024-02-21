@@ -37,9 +37,6 @@ This dashboard provides a clear snapshot of Olist's thriving e-commerce platform
   "Delving deeper, we see that the total number of distinct orders is 97.26 thousand, which indicates a healthy repeat purchase rate among our customer base."
 - **Daily Revenue**
   "The line chart for daily revenue shows fluctuations with significant spikes, highlighting key sales events or promotions. For example, a notable peak at $178K is visible, showcasing an exceptional sales day, likely corresponding to the Black Friday sales event."
-
-
-
   
 ![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
 ## Logistics Dasboard
