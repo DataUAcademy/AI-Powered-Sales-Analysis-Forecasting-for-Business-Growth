@@ -71,7 +71,8 @@ The data from our dashboard reveals a clear correlation between high customer ra
 # Forecasting
 Since the LSTM model demonstrated superior performance, we will utilize it to forecast revenue for the next 3 months.
 
-![Uploading LSTM Forecasting.gif…]()
+
+![LSTM Forecasting](https://github.com/DataUAcademy/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/2851ec53-4965-4eab-87f9-d68d4e92fc90)
 
 ![Forecasting](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/1bf5f64b-a1ec-4abe-8761-2b3744bd3a2e)
 
