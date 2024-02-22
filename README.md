@@ -5,7 +5,7 @@
 The project's main objectives include maximizing revenue, building a forecasting model(LSTM) for future sales and revenue, and optimizing resources for stock preparation and marketing campaigns. The capstone project revolves around leveraging AI for sales analysis and forecasting to support business growth for Olist, a Brazilian e-commerce startup, using Power BI for data visualization. It employs machine learning models like SARIMAX, XGBoost, and LSTM for revenue prediction, with LSTM being the top performer, The integration of a user-friendly Streamlit interface makes the forecasting accessible to stakeholders.
 
 ## Data Source
-Using Olist E-Commerce dataset as the source of our data (9 csv files). The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. You can find the dataset [here] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Using Olist E-Commerce dataset as the source of our data (9 csv files). The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. You can find the dataset [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## Technologies Used
 
