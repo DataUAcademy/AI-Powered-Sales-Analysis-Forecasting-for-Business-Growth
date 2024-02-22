@@ -75,7 +75,8 @@ For full experience and interaction with the dashboard, Here is the link to the 
 Since the LSTM model demonstrated superior performance, we will utilize it to forecast revenue for the next 3 months.
 
 
-![LSTM Forecasting](https://github.com/DataUAcademy/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/0a24549d-1a12-40c0-ae04-302d3c1b60fd)
+![LSTM Forecasting](https://github.com/DataUAcademy/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/28a53aa8-024b-4308-8acf-0aaf5e487529)
+
 
 
 
