@@ -39,6 +39,8 @@ This dashboard provides a clear snapshot of Olist's thriving e-commerce platform
   "The line chart for daily revenue shows fluctuations with significant spikes, highlighting key sales events or promotions. For example, a notable peak at $178K is visible, showcasing an exceptional sales day, likely corresponding to the Black Friday sales event."
   
 ![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
+
+For full experience and interaction with the dashboard, Here is the link to the dashboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
 ## Logistics Dashboard
 
 This logistics overview highlights our platform's extensive reach, efficient order processing, customer-centric payment options, and exceptional delivery performance. These insights enable us to continuously refine our logistics strategies and maintain a high level of service quality.
@@ -52,6 +54,8 @@ This logistics overview highlights our platform's extensive reach, efficient ord
 
 ![Logistics Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/da5f077a-37a2-46a8-ba3e-2b53e24c9f13)
 
+For full experience and interaction with the dashboard, Here is the link to the dashboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
+
 ## Customer Satisfaction
 
 The data from our dashboard reveals a clear correlation between high customer ratings and increased total revenue and order count. The success of products that have achieved a 5-star rating is a testament to our platform's ability to deliver quality products and services, leading to customer delight and repeat business.
@@ -64,6 +68,8 @@ The data from our dashboard reveals a clear correlation between high customer ra
 
 
 ![Customer Satisfaction ](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/7b727fcd-dbe3-4b6e-9648-5636c4b93001)
+
+For full experience and interaction with the dashboard, Here is the link to the dashboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
 
 # Forecasting
 Since the LSTM model demonstrated superior performance, we will utilize it to forecast revenue for the next 3 months.
