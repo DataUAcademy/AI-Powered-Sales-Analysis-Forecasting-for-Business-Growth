@@ -39,7 +39,7 @@ This dashboard provides a clear snapshot of Olist's thriving e-commerce platform
   "The line chart for daily revenue shows fluctuations with significant spikes, highlighting key sales events or promotions. For example, a notable peak at $178K is visible, showcasing an exceptional sales day, likely corresponding to the Black Friday sales event."
   
 ![Sales Dashboard](https://github.com/Famz21/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/ddde9cab-ddae-4fdb-bf2a-f88346813503)
-## Logistics Dasboard
+## Logistics Dashboard
 
 This logistics overview highlights our platform's extensive reach, efficient order processing, customer-centric payment options, and exceptional delivery performance. These insights enable us to continuously refine our logistics strategies and maintain a high level of service quality.
 - **Total Orders by Region**
