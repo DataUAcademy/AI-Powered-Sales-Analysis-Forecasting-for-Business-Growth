@@ -75,7 +75,7 @@ The data from our dashboard reveals a clear correlation between high customer ra
 For full experience and interaction with the dashboard, Here is the link to the dashboard: [AI-Powered Sales Analysis](https://www.novypro.com/project/ai-powered-sales-analysis)
 
 # Forecasting
-Since the LSTM model demonstrated superior performance, we will utilize it to forecast revenue for the next 3 months.
+Since the LSTM model demonstrated superior performance, we will utilize it to forecast revenue for the next 3 months. For full experience and interaction with the forecasting web app, Here is the link to the web: [Sales Forecasting with LSTM](https://ai-powered-sales-analysis-forecasting-for-business-growth.streamlit.app/)
 
 
 ![LSTM Forecasting](https://github.com/DataUAcademy/AI-Powered-Sales-Analysis-Forecasting-for-Business-Growth/assets/125658739/28a53aa8-024b-4308-8acf-0aaf5e487529)
